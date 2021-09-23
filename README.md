@@ -25,12 +25,15 @@ El provedor puede actualizar sus datos y de igual manera puede actualizar los li
 ##Pregunta:
 
 **Cual error code respondieras si un cliente ingresa una contraseña para su cuenta de
-forma incorrecta?** 401 No autorizado
+forma incorrecta?**
+401 No autorizado
 
 **- Cual codigo usarias para que el servidor le deje saber a un cliente que un recurso fue
-creado?** 201 creado
+creado?** 
+201 creado
 
 **- Cual codigo usarias para informar que el servidor tiene X error en su ejecución?**
+
 500 Hubo un error en el servidor
 
 
