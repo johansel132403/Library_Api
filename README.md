@@ -12,14 +12,14 @@ El provedor puede actualizar sus datos y de igual manera puede actualizar los li
 
 Tecnologia:
 
-*Nodejs
+**Nodejs
 
-*Typescript
+**Typescript
 
-*Postgresql
+**Postgresql
 
-*Sequelize
+**Sequelize
 
-*Express
+**Express
 
 
