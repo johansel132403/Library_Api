@@ -1,8 +1,8 @@
 # Library_Api
 
-Esto es una Rest-Api de una libreria.
+Esto es una Api de una libreria.
 
-Funcion:
+## Funcion:
 
 La Api funciona de la siguiente manera, para publicar un libro 
 un provedor tiene que registrarse primero una vez que este registrado, podra añadir libros.
@@ -10,7 +10,7 @@ un provedor tiene que registrarse primero una vez que este registrado, podra añ
 El provedor puede actualizar sus datos y de igual manera puede actualizar los libros 
 ( funcionalidades CRUD ) 
 
-Tecnologia:
+## **Tecnologia:**
 
 **Nodejs**
 
